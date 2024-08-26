@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jacobleclair
 - 👀 I’m interested in homebrew (Mainly 3DS)
-- 🌱 I’m currently learning nothing :)
+- 🌱 I’m currently learning C, C++, and 3DS Homebrew!
 - 📫 How to reach me: leclairjacob4@gmail.com
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I started coding when I was 7
